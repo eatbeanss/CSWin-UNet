@@ -1,6 +1,8 @@
 # CSWin-UNet
 The codes for the work "CSWin-UNet: Transformer UNet with cross-shaped windows for medical image segmentation". 
 
+## Prepare data
+The datasets we used are provided by TransUnet's authors. [Get processed data in this link] (https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd).
 ## Train/Test
 
 - Train
